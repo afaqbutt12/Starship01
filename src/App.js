@@ -1,11 +1,10 @@
-
-import './App.css';
-import Wsapi from './Component/Wsapi/Wsapi';
+import "./App.css";
+import Wsapi from "./Component/Wsapi/Wsapi";
 
 function App() {
   return (
-    <div>
-     <Wsapi/>
+    <div >
+      <Wsapi />
     </div>
   );
 }
